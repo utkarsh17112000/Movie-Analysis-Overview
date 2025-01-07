@@ -1,6 +1,8 @@
-# Movie Dataset Analysis Dashboard
+# Movie Analysis 
 
 This project showcases an interactive Tableau dashboard analyzing key insights from a movie dataset. The dataset includes information about movies such as genre, director, budget, gross revenue, ratings, and more. The dashboard is designed to provide actionable insights into the movie industry.
+
+Tableau Dashboard : https://public.tableau.com/views/MovieIndustryInsightsDashboard/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 # Table of Contents
 
@@ -8,7 +10,9 @@ This project showcases an interactive Tableau dashboard analyzing key insights f
 This project aims to analyze and visualize trends and insights from a movie dataset. Using Tableau, we created a dynamic dashboard that helps users:
 
 -Identify the most popular genres and directors.
+
 -Explore revenue trends and ratings.
+
 -Gain insights into the distribution of movies across different categories.
 
 
@@ -16,19 +20,33 @@ This project aims to analyze and visualize trends and insights from a movie data
 The dataset includes the following columns:
 
 Name: Movie title
+
 Rating: Movie rating (e.g., PG, PG-13, R)
+
 Genre: Movie genre(s)
+
 Year: Year of release
+
 Released: Release date
+
 Score: Average rating score
+
 Votes: Number of user votes
+
 Director: Movie director
+
 Writer: Movie writer
+
 Star: Leading actor/actress
+
 Country: Country of origin
+
 Budget: Budget of the movie
+
 Gross: Total gross revenue
+
 Company: Production company
+
 Runtime: Movie runtime (in minutes)
 
 
